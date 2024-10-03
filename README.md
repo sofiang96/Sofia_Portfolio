@@ -1,4 +1,3 @@
-# Sofia_Portfolio
 # Sofia Gonçalves - Portfolio
 
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a Junior Data Scientist and Developer. The portfolio is built using HTML, CSS, and JavaScript, and it's designed to highlight my journey, technical expertise, and the projects I've worked on.
