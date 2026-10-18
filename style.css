@@ -344,7 +344,7 @@ section .title::after{
     width: 80%; /* Excel skill bar */
 }
 
-.skills .skills-content .right .html&java::before {
+.skills .skills-content .right .html::before {
     width: 65%; /* HTML and Java skill bar */
 }
 
