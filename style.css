@@ -239,7 +239,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "Main programming projects";
+    content: "Main projects";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -337,14 +337,14 @@ section .title::after{
 }
 
 .skills .skills-content .right .tableau::before {
-    width: 75%; /* Tableau skill bar */
+    width: 70%; /* Tableau skill bar */
 }
 
-.skills .skills-content .right .java::before {
-    width: 65%; /* Java skill bar */
+.skills .skills-content .right .excel::before {
+    width: 70%; /* Java skill bar */
 }
 
-.skills .skills-content .right .html::before {
+.skills .skills-content .right .html&java::before {
     width: 65%; /* HTML skill bar */
 }
 
