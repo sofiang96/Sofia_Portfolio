@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Financce and Economics Masters'", "Digital Transformation in Finance", "Gym Addict"],
+         strings:["Financce and Economics Masters'", "Junior Data Analyst", "Gym Addict"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Financce and Economics Masters'", "Digital Transformation in Finance", "Gym Addict"],
+        strings:["Financce and Economics Masters'", "Junior Data Analyst", "Gym Addict"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
