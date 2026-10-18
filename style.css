@@ -341,11 +341,11 @@ section .title::after{
 }
 
 .skills .skills-content .right .excel::before {
-    width: 70%; /* Java skill bar */
+    width: 80%; /* Excel skill bar */
 }
 
 .skills .skills-content .right .html&java::before {
-    width: 65%; /* HTML skill bar */
+    width: 65%; /* HTML and Java skill bar */
 }
 
 /*  Contact  */
